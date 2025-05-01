@@ -5,7 +5,7 @@ variables:
   - group: dev-cicd-grp
   - group: uat-cicd-grp
   - name: notebookPath
-    value: "notebooks"  
+    value: "Notebooks"  
 
 pool:
   vmImage: "windows-latest"

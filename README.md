@@ -24,24 +24,8 @@ This project implements an end-to-end data pipeline using **Databricks Unity Cat
 - Automated pipeline triggers via Databricks Automation  
 - Interactive Power BI dashboard for traffic insights  
 
-## 🗃️ Project Structure  
-├── data/  
-├── notebooks/  
-├── scripts/  
-├── dashboards/  
-├── workflows/  
-└── README.md  
-
 ## 📊 Results  
 ![Power BI Dashboard](https://github.com/user-attachments/assets/10fe7d5c-655c-4417-9517-c9e9486b1f8c)
-
-## 🎥 Project Demo  
-Here’s a quick demo of the end-to-end traffic data pipeline using **Databricks Unity Catalog**:  
-
-#Azure Set-Up
-[A]()
-
-
 
 
 ## 💡 Contact  
